@@ -19,14 +19,6 @@ Try to guess the secret number between 1 and 20! You'll get feedback on whether 
 - Immediate feedback on your guesses
 - Reset button to start a new game anytime
 
-## 📁 File Structure
-guess-my-number/
-##├── index.html # Main HTML file
-##├── style.css # Stylesheet
-##├── script.js # Game logic
-##└── README.md # This file
-
-
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
