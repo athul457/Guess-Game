@@ -40,5 +40,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ---
 **Enjoy the game!** 🎉
 
-#link 
 guesswhatnumbergame.netlify.app
