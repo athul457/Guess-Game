@@ -21,10 +21,10 @@ Try to guess the secret number between 1 and 20! You'll get feedback on whether 
 
 ## 📁 File Structure
 guess-my-number/
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── script.js # Game logic
-└── README.md # This file
+##├── index.html # Main HTML file
+##├── style.css # Stylesheet
+##├── script.js # Game logic
+##└── README.md # This file
 
 
 ## 🛠️ Technologies Used
